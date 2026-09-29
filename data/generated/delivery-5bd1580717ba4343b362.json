@@ -89,7 +89,7 @@
       "from": "2026-09-01",
       "merged_prs": 240,
       "month": "2026-09",
-      "prs": 246,
+      "prs": 247,
       "to": "2026-09-29"
     }
   ],
@@ -128,17 +128,17 @@
     "open_prs": "author:tamito0201 created:2025-09-30..2026-09-29 is:pr is:open",
     "prs": "author:tamito0201 created:2025-09-30..2026-09-29 is:pr"
   },
-  "retrieved_at": "2026-09-29T08:01:55Z",
+  "retrieved_at": "2026-09-29T08:20:25Z",
   "scope": "Created-date cohort; status at retrieval. Includes accessible private repositories. Aggregate counts only.",
   "source": "GitHub GraphQL search; REST total cross-check",
   "to": "2026-09-29",
   "totals": {
     "closed_issues": 622,
     "closed_unmerged_prs": 167,
-    "issues": 829,
+    "issues": 830,
     "merged_prs": 1788,
-    "open_issues": 207,
-    "open_prs": 3,
-    "prs": 1958
+    "open_issues": 208,
+    "open_prs": 4,
+    "prs": 1959
   }
 }

@@ -19,13 +19,13 @@ I'm **Takaomi Murasaki** (`tamito0201`), a software engineer, backend and cloud 
 
 My work connects **domain modeling, API design, data-intensive backends, cloud infrastructure, and production operations**. I take projects from an empty repository through release, then stay close to the reliability, maintainability, and product decisions that follow.
 
-<sub>GitHub metrics are generated from the GitHub API. Last data change: <strong>2026-09-29T08:01:55Z</strong>. GitHub indexing and image caches can delay updates. Historical career achievements retain their source dates.</sub>
+<sub>GitHub metrics are generated from the GitHub API. Last data change: <strong>2026-09-29T08:20:25Z</strong>. GitHub indexing and image caches can delay updates. Historical career achievements retain their source dates.</sub>
 
 **Go · Java / Spring · Ruby on Rails · TypeScript · AWS · Google Cloud · Terraform · Applied AI**
 
 ## Engineering impact, at a glance
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/impact-26c4df765a3a25b90464.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,569 contributions; 1,788 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/impact-113237719419a2ce69e7.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,571 contributions; 1,788 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
 
 | Evidence                                         | What I delivered                                                                                       | Engineering significance                                                                                  |
 | :----------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
@@ -34,21 +34,21 @@ My work connects **domain modeling, API design, data-intensive backends, cloud i
 | **AWS + Google Cloud**                           | Led the technical work to move a disaster-response core system to a multi-cloud architecture.          | Containerized applications, reproducible infrastructure, and automated delivery across ECS and Cloud Run. |
 | **16 years of Java · 8 years of AWS**            | Combined deep backend experience with hands-on cloud delivery.                                         | A foundation for modernizing established systems and making pragmatic architecture decisions.             |
 | **20+ years of engineering experience**          | Delivered across financial services, telecom, logistics, retail, entertainment, and HR technology.     | Experience with both enterprise constraints and iterative product development.                            |
-| **1,788 authored pull requests merged** | 1,958 PRs created in the September 2025–September 2026 cohort; 91.3% merged at the snapshot.                 | A substantial, visible record of changes reaching integration across accessible repositories.             |
+| **1,788 authored pull requests merged** | 1,959 PRs created in the September 2025–September 2026 cohort; 91.3% merged at the snapshot.                 | A substantial, visible record of changes reaching integration across accessible repositories.             |
 
 <sub>Career and technology-tenure figures are based on my professional experience record dated December 22, 2025. Record-history scale describes stored histories, not throughput. Public project narratives: <a href="https://promari.jp/performance#pmw-development-section">PROMARI engineering work</a>.</sub>
 
 ## Engineering delivery, in numbers
 
-**1,958 pull requests authored. 1,788 merged. 622 authored issues closed.**
+**1,959 pull requests authored. 1,788 merged. 622 authored issues closed.**
 
 The following charts show the outcomes of PRs and issues I created between **September 30, 2025 and September 29, 2026**, with their status measured at the snapshot. They include accessible private repositories, summarized as aggregate counts.
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-0906eb308f3edffa12f0.svg" alt="1,958 authored PRs: 1,788 merged, 167 closed without merge, 3 open. Merged share: 91.3%. Of 829 authored issues, 622 are closed and 207 remain open. Closed share: 75.0%. Status at the September 29, 2026 snapshot." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-a724cab5a5ae6edfffa5.svg" alt="1,959 authored PRs: 1,788 merged, 167 closed without merge, 4 open. Merged share: 91.3%. Of 830 authored issues, 622 are closed and 208 remain open. Closed share: 74.9%. Status at the September 29, 2026 snapshot." width="100%">
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-trend-7d992838aaae077eb45f.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-trend-a7f89314604cb1b9f74e.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
 
-<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/delivery-890208553e9a1ccd7baa.json">Counts and query definitions</a>.</sub>
+<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/delivery-5bd1580717ba4343b362.json">Counts and query definitions</a>.</sub>
 
 ## Selected engineering work
 
@@ -141,15 +141,17 @@ I also offer **evaluation and trust-boundary design**: representative test cases
 
 <img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/experience-0b031f200699ff9a6bec.svg" alt="Reported experience as of September 2026: Java 16 years, Linux 12, MySQL 9, AWS 8, Amazon RDS 5, Go 4, Ruby on Rails 4, TypeScript 2. Experience overlaps across technologies." width="100%">
 
-| Layer                              | Technologies I have used                                                                                                                  |
-| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| **Backend and APIs**               | Go, Gin, GORM, Java, Spring Boot, Ruby on Rails, Node.js, REST, OpenAPI, GraphQL, gRPC                                                    |
-| **Architecture**                   | Domain-driven design, layered architecture, Clean Architecture, BFFs, event-driven systems, asynchronous processing, SOLID                |
-| **Cloud and delivery**             | AWS ECS, Lambda, SQS, Batch, RDS/Aurora, S3; Google Cloud Run, GCE, Cloud SQL; Terraform, AWS CDK, CloudFormation, Docker, GitHub Actions |
-| **Data and observability**         | MySQL, PostgreSQL, Oracle, binary logs, SQL tuning, Embulk, CloudWatch, Sentry                                                            |
-| **Applied AI**                     | LangChain, LangGraph, LangChain4j, Claude, MCP, RAG, Pinecone, embeddings, tool calling, structured output, Zod                           |
-| **Frontend and mobile**            | React, TypeScript, Vue.js, Android, Kotlin, Flutter/Dart, MVVM, RxJava, Dagger 2                                                          |
-| **Testing and knowledge transfer** | JUnit, RSpec, runn, code review, technical writing, architecture documentation, Java/Jakarta EE and C#/.NET curricula                     |
+| Layer                              | Technologies I have used                                                                                                                                    |
+| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Backend and APIs**               | Go, Gin, GORM, Java, Spring Boot, Ruby on Rails, Node.js, REST, OpenAPI, GraphQL, gRPC                                                                      |
+| **Architecture**                   | Domain-driven design, layered architecture, Clean Architecture, BFFs, event-driven systems, asynchronous processing, SOLID                                  |
+| **Cloud and delivery**             | AWS ECS, Lambda, SQS, Batch, RDS/Aurora, S3; Google Cloud Run, GCE, Cloud SQL; Terraform, AWS CDK, CloudFormation, Docker, GitHub Actions                   |
+| **Data and observability**         | MySQL, PostgreSQL, Oracle, binary logs, SQL tuning, Embulk, CloudWatch, Sentry                                                                              |
+| **Applied AI**                     | Claude, LangChain, LangGraph, LangChain4j, multi-agent orchestration, tool calling, context engineering, structured output, Zod, A2UI                       |
+| **AI retrieval and integration**   | RAG, Pinecone, embeddings, semantic and vector search, source metadata; MCP with JSON-RPC, Streamable HTTP, SSE, JSON Schema                                |
+| **AI in delivery and operations**  | AI code review, test-gap analysis, refactoring proposals, JSDoc generation, knowledge reuse, streaming UIs over gRPC, token and cost tracking, usage limits |
+| **Frontend and mobile**            | React, TypeScript, Vue.js, Android, Kotlin, Flutter/Dart, MVVM, RxJava, Dagger 2                                                                            |
+| **Testing and knowledge transfer** | JUnit, RSpec, runn, code review, technical writing, architecture documentation, Java/Jakarta EE and C#/.NET curricula                                       |
 
 <a id="engineering-scorecard"></a>
 
@@ -176,9 +178,9 @@ This approach draws on **[DORA's five delivery metrics](https://dora.dev/guides/
 
 ## Building, consistently
 
-<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/activity-46a9d482b16934be0200.svg" alt="GitHub activity snapshot for September 30, 2025 to September 29, 2026: 13,569 contributions, 307 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
+<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/activity-728cef74809c047bed03.svg" alt="GitHub activity snapshot for September 30, 2025 to September 29, 2026: 13,571 contributions, 307 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
 
-<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/activity-6c64f88143f934f66651.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
+<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/activity-63f0ecc0d966305b40f6.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
 
 ## Public work you can explore
 
