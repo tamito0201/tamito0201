@@ -1,0 +1,211 @@
+<a href="https://promari.jp/performance"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/hero.svg" alt="Takaomi Murasaki — Software Engineer, Backend and Cloud Architect. Build systems. Ship intelligence." width="100%"></a>
+
+<p align="center">
+  <a href="https://promari.jp/performance"><strong>Engineering portfolio</strong></a> ·
+  <a href="#selected-engineering-work"><strong>Selected work</strong></a> ·
+  <a href="#applied-ai-from-model-calls-to-working-systems"><strong>Applied AI</strong></a> ·
+  <a href="#engineering-scorecard"><strong>Engineering scorecard</strong></a> ·
+  <a href="https://promari.jp/school?contact_source=github-profile&amp;contact_topic=development#pms-contact-form"><strong>Work with me ↗</strong></a>
+</p>
+
+# I build the systems behind the product.
+
+I'm **Takaomi Murasaki** (`tamito0201`), a software engineer, backend and cloud architect, and the founder behind **[PROMARI](https://promari.jp/school)**. I've been building software since **2004**, with experience spanning enterprise financial systems, customer-facing applications, SaaS platforms, and applied AI.
+
+My work connects **domain modeling, API design, data-intensive backends, cloud infrastructure, and production operations**. I take projects from an empty repository through release, then stay close to the reliability, maintainability, and product decisions that follow.
+
+**Go · Java / Spring · Ruby on Rails · TypeScript · AWS · Google Cloud · Terraform · Applied AI**
+
+## Engineering impact, at a glance
+
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/impact.svg" alt="20+ years building software since 2004; hundreds of thousands of record histories; a SaaS product launched from zero in July 2024; 13,623 GitHub contributions in the 12-month snapshot ending September 29, 2026." width="100%">
+
+| Evidence | What I delivered | Engineering significance |
+| :--- | :--- | :--- |
+| **Hundreds of thousands of record histories** | Designed and implemented a MySQL binary-log-based versioning system for organization and project data. | Algorithm design, multithreading, and application/database performance tuning. |
+| **0 → 1 SaaS launch · July 2024** | Built the Go/Gin backend and Rails BFF for a new stress-check SaaS, starting at repository creation. | Ownership across architecture, implementation, release, and subsequent product development. |
+| **AWS + Google Cloud** | Led the technical work to move a disaster-response core system to a multi-cloud architecture. | Containerized applications, reproducible infrastructure, and automated delivery across ECS and Cloud Run. |
+| **16 years of Java · 7 years of AWS** | Combined deep backend experience with hands-on cloud delivery. | A foundation for modernizing established systems and making pragmatic architecture decisions. |
+| **20+ years of engineering experience** | Delivered across financial services, telecom, logistics, retail, entertainment, and HR technology. | Experience with both enterprise constraints and iterative product development. |
+
+<sub>Career and technology-tenure figures are based on my professional experience record dated December 22, 2025. Record-history scale describes stored histories, not throughput. Public project narratives: <a href="https://promari.jp/performance#pmw-development-section">PROMARI engineering work</a>.</sub>
+
+## Selected engineering work
+
+### 01 / SaaS backends — from domain model to production
+
+**HR technology · Go / Gin / GORM · Ruby on Rails · MySQL · AWS**
+
+I work across the backend, BFF, and infrastructure of an HR-tech SaaS product. For its external API release, I handled **API design, implementation, documentation, and vulnerability remediation**, bringing the Go-based product's capabilities to external consumers.
+
+For a new stress-check SaaS, I joined at repository creation and designed and implemented the **Go backend and Rails BFF**, contributing to the **July 2024 release**. My subsequent work has included technical decisions, coordination with other teams, and ongoing product improvements in a multinational engineering environment.
+
+**What I bring:** translating complex organizational workflows into maintainable services; connecting engineering decisions with customer-success feedback; carrying ownership into operations.
+
+### 02 / Data platforms — history at meaningful scale
+
+**MySQL binary logs · Versioned data · Algorithms · Multithreading · SQL tuning**
+
+I designed and implemented a database versioning system that manages **hundreds of thousands of record histories** at organization and project scope. The implementation uses MySQL binary logs as its starting point and combines history-processing algorithms with multithreaded execution.
+
+I worked on performance at **both the application and database layers**, and implemented survey-question branching algorithms that support core product behavior.
+
+**What I bring:** data modeling, careful treatment of historical state, concurrency design, and performance investigation across service boundaries.
+
+### 03 / Cloud and SRE — reproducible infrastructure for critical systems
+
+**SRE Tech Lead · AWS ECS · Google Cloud Run / GCE · Terraform · Docker · GitHub Actions**
+
+As the SRE technical lead for a disaster-response core system, I led its move to **AWS and Google Cloud**. I standardized application environments with Docker, designed container deployment across ECS and Cloud Run, and codified infrastructure and deployment settings with Terraform.
+
+I built a delivery pipeline covering **builds, tests, container images, and deployments**, replacing manual steps with reproducible workflows. The work connected application restructuring, infrastructure design, and operational requirements.
+
+**What I bring:** architecture that accounts for deployment, portability, traceability, and the people who will operate it.
+
+### 04 / Asynchronous platforms — queues, batch processing, and observability
+
+**Technical Lead · AWS SQS / Batch / CDK · CloudWatch · Sentry · Java / TypeScript / Python**
+
+For a recruitment business, I redesigned a crawler batch system around a **scheduler → SQS → AWS Batch** processing flow, with containerized execution, scaling, and retry behavior.
+
+Starting from an environment without a dedicated test setup, I used AWS CDK to make development, validation, and production infrastructure reproducible. GitHub Actions automated infrastructure and batch-definition updates. CloudWatch and Sentry exposed **job duration, failure rates, queue backlog, and application errors**.
+
+**What I bring:** reliable asynchronous processing, infrastructure ownership, and instrumentation that helps a team understand failures.
+
+### 05 / Product engineering — mobile, APIs, and delivery working together
+
+**Kotlin · Android · Flutter · Clean Architecture / MVVM · GraphQL · Headless CMS**
+
+My product work includes a **retail Android application built from zero**, smart-glasses prototyping, incremental Flutter adoption in an existing job-search application, and an entertainment application's content-delivery modernization.
+
+I have led technology selection and architecture, coordinated offshore implementation through design guidance and code review, and worked across mobile clients, frontend delivery, backend services, and infrastructure. On the entertainment project, this included **WordPress → Contentful**, Gatsby/Netlify delivery, Android changes, and Scala/Play backend integration.
+
+**What I bring:** the ability to reason about the entire user-facing system while keeping each component maintainable.
+
+<details>
+<summary><strong>More engineering experience: financial systems, real-time data, integrations, and modernization</strong></summary>
+
+| Area | Selected contribution |
+| :--- | :--- |
+| **Real-time transport data** | Designed and implemented Node.js APIs that unify multiple operators' data through a common model, event-driven processing, and lightweight data exchange. |
+| **Data pipelines** | Built Java/Embulk plugins and external API integrations for ingestion, transformation, validation, and output. |
+| **Financial platforms** | Developed Java/Spring Boot backends for cryptocurrency dealing workflows, with API contracts, access-control concerns, and traceable business data. Earlier work included securities and foreign-exchange systems. |
+| **Enterprise modernization** | Worked on framework development, source-quality management, profiler-based performance improvement, and development/production environments in a major SIer's internal-system renewal. |
+| **Telecom and logistics** | Developed base-station management, traffic-analysis, parcel-tracking, and cloud-based fleet-management systems. |
+| **Large-program delivery** | Supported PMO, ITIL configuration management, approval workflows, and internal tooling in a financial-system integration program of approximately **1,000 people / 30,000 person-months**. These figures describe the overall program; my contribution was PMO and process/tooling work. |
+| **Product analytics** | Defined events and conversion indicators, connected Google Ads with Google Analytics, and improved information architecture, SEO, and internal operational capability for a company service. |
+
+</details>
+
+**[Explore the engineering portfolio →](https://promari.jp/performance#pmw-development-section)**
+
+## Applied AI: from model calls to working systems
+
+I build the surrounding software that makes AI useful: **tool integration, retrieval, context handling, streaming interfaces, usage visibility, and reviewable outputs**. My implementation experience spans TypeScript/LangChain and Java/Spring Boot/LangChain4j.
+
+| Capability | Implementation experience | Product value |
+| :--- | :--- | :--- |
+| **Agent orchestration** | Specialized agents, tool routing, and workflows that carry context between steps. | Connect research, decisions, and actions into a coherent workflow. |
+| **RAG and knowledge retrieval** | Embeddings and Pinecone search; relevance and source metadata passed to specialist agents. | Bring the relevant evidence into an answer. |
+| **MCP and API integration** | Tool adapters and clients, discovery and invocation, JSON Schema contracts, contextual inputs, and structured error handling. | Make existing systems usable by AI workflows. |
+| **Streaming AI experiences** | Incremental responses and tool-execution status across React, TypeScript, and gRPC. | Let users see progress and understand what the system is doing. |
+| **Code review and modernization** | Claude-based PR review, test-gap analysis, and structured refactoring proposals. | Give reviewers concrete issues, priorities, and proposed changes to evaluate. |
+| **Context and developer knowledge** | Clarification flows, schema-validated output, conversation knowledge, and JSDoc generation. | Make requirements and implementation knowledge reusable. |
+| **Usage controls** | Per-call input/output token tracking, per-user persistence, and monthly-limit checks. | Make agent usage visible and governable. |
+
+I also offer **evaluation and trust-boundary design**: representative test cases, groundedness checks, permission boundaries, human approval points, and auditability. These are engineering design and evaluation services described alongside the implementation work in my portfolio.
+
+**[Explore AI engineering →](https://promari.jp/performance#pmw-ai)**
+
+## Technical depth
+
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/experience.svg" alt="Reported experience as of December 2025: Java 16 years, Linux 12, MySQL 8, AWS 7, Amazon RDS 5, Go 3, Ruby on Rails 3, TypeScript 2. Experience overlaps across technologies." width="100%">
+
+| Layer | Technologies I have used |
+| :--- | :--- |
+| **Backend and APIs** | Go, Gin, GORM, Java, Spring Boot, Ruby on Rails, Node.js, REST, OpenAPI, GraphQL, gRPC |
+| **Architecture** | Domain-driven design, layered architecture, Clean Architecture, BFFs, event-driven systems, asynchronous processing, SOLID |
+| **Cloud and delivery** | AWS ECS, Lambda, SQS, Batch, RDS/Aurora, S3; Google Cloud Run, GCE, Cloud SQL; Terraform, AWS CDK, CloudFormation, Docker, GitHub Actions |
+| **Data and observability** | MySQL, PostgreSQL, Oracle, binary logs, SQL tuning, Embulk, CloudWatch, Sentry |
+| **Applied AI** | LangChain, LangGraph, LangChain4j, Claude, MCP, RAG, Pinecone, embeddings, tool calling, structured output, Zod |
+| **Frontend and mobile** | React, TypeScript, Vue.js, Android, Kotlin, Flutter/Dart, MVVM, RxJava, Dagger 2 |
+| **Testing and knowledge transfer** | JUnit, RSpec, runn, code review, technical writing, architecture documentation, Java/Jakarta EE and C#/.NET curricula |
+
+<a id="engineering-scorecard"></a>
+
+<details>
+<summary><strong>Engineering scorecard — the performance and quality signals behind my work</strong></summary>
+
+**The outcomes I want to make visible: faster delivery, reliable services, correct data, useful AI, and maintainable systems.**
+
+The scorecard below describes the measurement approach I can bring to an engagement. Baselines and targets are defined for the actual service and workload; the measured career and GitHub figures appear separately in this profile.
+
+| Dimension | Signals to establish and track | Connection to my work |
+| :--- | :--- | :--- |
+| **Delivery** | Change lead time, deployment frequency, failed deployment recovery time, change fail rate, deployment rework rate. | CI/CD and reproducible infrastructure for cloud migration and batch platforms. |
+| **Reliability** | Request latency, traffic, errors, saturation; service-specific SLI/SLO attainment and error-budget consumption. | SaaS operations and the disaster-response system. |
+| **Backend performance** | p50/p95/p99 latency, throughput under a stated workload, query duration, lock waits, CPU/memory pressure. | MySQL history processing, multithreading, and application/database tuning. |
+| **Async and data systems** | Queue age/depth, job duration, retry/failure rates, freshness lag, duplicate rate, reconciliation failures. | SQS/Batch pipelines and versioned organizational data. |
+| **AI quality** | Task completion, tool selection and input accuracy, tool-call success, groundedness, relevance, regression pass rate. | Agent workflows, MCP integration, retrieval, and AI-assisted review. |
+| **AI responsiveness** | Time to first response, end-to-end latency, tokens per task, and successful workflow completion. | Streaming interfaces, token tracking, and tool-execution visibility. |
+| **Developer experience** | Review waiting time, CI feedback time, flaky-test rate, onboarding friction, developer satisfaction. | Technical leadership, architecture guidance, and reusable engineering knowledge. |
+
+This approach draws on **[DORA's five delivery metrics](https://dora.dev/guides/dora-metrics/)**, **[Google SRE's monitoring guidance](https://sre.google/sre-book/monitoring-distributed-systems/)**, **[Microsoft/GitHub's SPACE research](https://www.microsoft.com/en-us/research/publication/the-space-of-developer-productivity-theres-more-to-it-than-you-think/)**, and **[Microsoft's agent-evaluation guidance](https://learn.microsoft.com/en-us/azure/foundry/concepts/evaluation-evaluators/agent-evaluators)**.
+
+</details>
+
+## Building, consistently
+
+<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/activity.svg" alt="GitHub activity snapshot for September 29, 2025 to September 29, 2026: 13,623 contributions, 308 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
+
+<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/activity.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
+
+## Public work you can explore
+
+### [PROMARI Toolkit](https://github.com/tamito0201/promari-toolkit)
+
+Reusable plugins and tools for websites and development workflows, with component-level documentation, tests, and releases.
+
+Its **[SNS Share component](https://github.com/tamito0201/promari-toolkit/tree/main/plugins/promari-sns-share)** provides **8 sharing destinations/actions** through a Web Component and a WordPress integration. It uses **one configurable bundle**, avoids provider iframes and SDKs, and exposes events for analytics. The implementation brings together TypeScript, PHP, Python, TOML configuration, architectural boundaries, and independently versioned releases.
+
+**[Source and architecture →](https://github.com/tamito0201/promari-toolkit/tree/main/plugins/promari-sns-share/docs)** · **[Releases →](https://github.com/tamito0201/promari-toolkit/releases)**
+
+### [PROMARI engineering portfolio](https://promari.jp/performance)
+
+Project narratives covering backend platforms, cloud modernization, real-time data, integrations, mobile applications, and applied AI. **[Development](https://promari.jp/performance#pmw-development-section)** · **[AI engineering](https://promari.jp/performance#pmw-ai)** · **[Technical writing](https://promari.jp/blog/)**
+
+## Technical leadership that compounds
+
+I combine implementation with **architecture decisions, cross-team coordination, code review, and knowledge transfer**. My experience includes multinational product teams, offshore engineering collaboration, SRE technical leadership, and the operational discipline of large enterprise programs.
+
+Teaching is an extension of that engineering work. I designed and authored approximately **800 pages** of Jakarta EE/MyBatis material with a working application and exercises in roughly **three months**, and led a **4-lead / 25-assistant instructor team** serving approximately **500 new engineers** in April–June 2025. I also developed C#/.NET exercises using layered architecture and DDD.
+
+The same skill runs through both: **make complex systems understandable, make technical decisions explicit, and help the next engineer move faster.**
+
+<details>
+<summary><strong>Career foundations</strong></summary>
+
+| Period | Focus |
+| :--- | :--- |
+| **2004–2011** | Enterprise Java, framework development, profiling, financial-system integration, configuration management, and logistics. |
+| **2011–2016** | Cloud adoption support, telecom backends, retail services, securities systems, and entrepreneurship from 2015. |
+| **2018–2020** | Financial web platforms, Android/Kotlin, smart glasses, Flutter adoption, and content-delivery modernization. |
+| **2021–2022** | AWS batch architecture, infrastructure as code, observability, and AWS/Google Cloud SRE technical leadership. |
+| **2023 onward** | Go/Rails SaaS backends, external APIs, a new product launch, database versioning, and ongoing technical leadership. |
+| **Current focus** | Backend and cloud engineering, applied AI workflows, developer tooling, and maintainable product delivery. |
+
+**Education:** Master's degree in an information-engineering discipline, Kyushu Institute of Technology, Japan.
+
+</details>
+
+## Let's build something that holds up in production.
+
+Bring me a backend that needs to scale, a legacy system that needs a clear migration path, a cloud platform that needs operational discipline, or an AI feature that needs to become a working product.
+
+I can help with **architecture and technical discovery, hands-on implementation, cloud/SRE foundations, API and data integration, applied AI, and technical leadership**.
+
+**[Discuss an engineering project ↗](https://promari.jp/school?contact_source=github-profile&contact_topic=development#pms-contact-form)** · **[Discuss an AI integration ↗](https://promari.jp/school?contact_source=github-profile&contact_topic=ai#pms-contact-form)** · **[View the full portfolio ↗](https://promari.jp/performance)**
+
+---
+
+<sub>Project details are summarized from my professional experience record (December 22, 2025) and the public PROMARI portfolio (reviewed September 29, 2026). Client names are omitted where the portfolio keeps them private. Technology tenure is an overlapping experience measure. This profile is maintained in <a href="https://github.com/tamito0201/tamito0201">tamito0201/tamito0201</a>.</sub>
