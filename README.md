@@ -1,4 +1,4 @@
-<a href="https://promari.jp/performance"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/hero.svg" alt="Takaomi Murasaki — Software Engineer, Backend and Cloud Architect. Build systems. Ship intelligence." width="100%"></a>
+<a href="https://promari.jp/performance"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/hero.svg" alt="Takaomi Murasaki — Software Engineer, Backend and Cloud Architect. Build systems. Ship intelligence." width="100%"></a>
 
 <p align="center">
   <a href="https://promari.jp/performance"><strong>Engineering portfolio</strong></a> ·
@@ -19,7 +19,7 @@ My work connects **domain modeling, API design, data-intensive backends, cloud i
 
 ## Engineering impact, at a glance
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/impact.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,623 contributions; 1,804 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/impact.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,623 contributions; 1,804 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
 
 | Evidence | What I delivered | Engineering significance |
 | :--- | :--- | :--- |
@@ -38,11 +38,11 @@ My work connects **domain modeling, API design, data-intensive backends, cloud i
 
 The following charts show the outcomes of PRs and issues I created between **September 29, 2025 and September 29, 2026**, with their status measured at the snapshot. They include accessible private repositories, summarized as aggregate counts.
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/delivery.svg" alt="1,976 authored PRs: 1,804 merged, 168 closed without merge, 4 open. Merged share: 91.3%. Of 826 authored issues, 618 are closed and 208 remain open. Closed share: 74.8%. Status at the September 29, 2026 snapshot." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/delivery.svg" alt="1,976 authored PRs: 1,804 merged, 168 closed without merge, 4 open. Merged share: 91.3%. Of 826 authored issues, 618 are closed and 208 remain open. Closed share: 74.8%. Status at the September 29, 2026 snapshot." width="100%">
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/delivery-trend.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/delivery-trend.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
 
-<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/delivery.json">Counts and query definitions</a>.</sub>
+<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/data/delivery.json">Counts and query definitions</a>.</sub>
 
 ## Selected engineering work
 
@@ -133,7 +133,7 @@ I also offer **evaluation and trust-boundary design**: representative test cases
 
 ## Technical depth
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/experience.svg" alt="Reported experience as of December 2025: Java 16 years, Linux 12, MySQL 8, AWS 7, Amazon RDS 5, Go 3, Ruby on Rails 3, TypeScript 2. Experience overlaps across technologies." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/experience.svg" alt="Reported experience as of December 2025: Java 16 years, Linux 12, MySQL 8, AWS 7, Amazon RDS 5, Go 3, Ruby on Rails 3, TypeScript 2. Experience overlaps across technologies." width="100%">
 
 | Layer | Technologies I have used |
 | :--- | :--- |
@@ -170,9 +170,9 @@ This approach draws on **[DORA's five delivery metrics](https://dora.dev/guides/
 
 ## Building, consistently
 
-<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/activity.svg" alt="GitHub activity snapshot for September 29, 2025 to September 29, 2026: 13,623 contributions, 308 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
+<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/activity.svg" alt="GitHub activity snapshot for September 29, 2025 to September 29, 2026: 13,623 contributions, 308 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
 
-<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/activity.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
+<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/data/activity.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
 
 ## Public work you can explore
 
@@ -184,9 +184,9 @@ Its **[SNS Share component](https://github.com/tamito0201/promari-toolkit/tree/m
 
 **[Source and architecture →](https://github.com/tamito0201/promari-toolkit/tree/main/plugins/promari-sns-share/docs)** · **[Releases →](https://github.com/tamito0201/promari-toolkit/releases)**
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/releases.svg" alt="PROMARI SNS Share: 10 public stable releases across 4 major version lines, with 8 sharing destinations or actions. Release history from September 17 through September 25, 2026." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/releases.svg" alt="PROMARI SNS Share: 10 public stable releases across 4 major version lines, with 8 sharing destinations or actions. Release history from September 17 through September 25, 2026." width="100%">
 
-<sub>Release counts come from the public GitHub Releases API; major version lines are derived from the published tags. Snapshot: September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/releases.json">Release data</a>.</sub>
+<sub>Release counts come from the public GitHub Releases API; major version lines are derived from the published tags. Snapshot: September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/data/releases.json">Release data</a>.</sub>
 
 ### [PROMARI engineering portfolio](https://promari.jp/performance)
 
@@ -194,7 +194,7 @@ Project narratives covering backend platforms, cloud modernization, real-time da
 
 ## Technical leadership that compounds
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/career.svg" alt="Engineering milestones: enterprise Java in 2004; financial-system integration in 2007–2010; company founded in 2015; mobile architecture in 2019–2020; AWS batch platforms in 2021; multi-cloud SRE leadership in 2022; a July 2024 SaaS launch; current backend, cloud, and applied AI work." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/62456d25679366ef2bb0eff7ae7e1c81b2e6ad1c/assets/career.svg" alt="Engineering milestones: enterprise Java in 2004; financial-system integration in 2007–2010; company founded in 2015; mobile architecture in 2019–2020; AWS batch platforms in 2021; multi-cloud SRE leadership in 2022; a July 2024 SaaS launch; current backend, cloud, and applied AI work." width="100%">
 
 I combine implementation with **architecture decisions, cross-team coordination, code review, and knowledge transfer**. My experience includes multinational product teams, offshore engineering collaboration, SRE technical leadership, and the operational discipline of large enterprise programs.
 
