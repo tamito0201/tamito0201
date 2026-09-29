@@ -19,13 +19,13 @@ I'm **Takaomi Murasaki** (`tamito0201`), a software engineer, backend and cloud 
 
 My work connects **domain modeling, API design, data-intensive backends, cloud infrastructure, and production operations**. I take projects from an empty repository through release, then stay close to the reliability, maintainability, and product decisions that follow.
 
-<sub>GitHub metrics are generated from the GitHub API. Last data change: <strong>2026-09-29T08:25:12Z</strong>. GitHub indexing and image caches can delay updates. Historical career achievements retain their source dates.</sub>
+<sub>GitHub metrics are generated from the GitHub API. Last data change: <strong>2026-09-29T08:32:06Z</strong>. GitHub indexing and image caches can delay updates. Historical career achievements retain their source dates.</sub>
 
 **Go · Java / Spring · Ruby on Rails · TypeScript · AWS · Google Cloud · Terraform · Applied AI**
 
 ## Engineering impact, at a glance
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/impact-b047152070855ca2b930.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,573 contributions; 1,788 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/impact-d7fca05d43015194139b.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,575 contributions; 1,791 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
 
 | Evidence                                         | What I delivered                                                                                       | Engineering significance                                                                                  |
 | :----------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
@@ -34,21 +34,21 @@ My work connects **domain modeling, API design, data-intensive backends, cloud i
 | **AWS + Google Cloud**                           | Led the technical work to move a disaster-response core system to a multi-cloud architecture.          | Containerized applications, reproducible infrastructure, and automated delivery across ECS and Cloud Run. |
 | **16 years of Java · 8 years of AWS**            | Combined deep backend experience with hands-on cloud delivery.                                         | A foundation for modernizing established systems and making pragmatic architecture decisions.             |
 | **20+ years of engineering experience**          | Delivered across financial services, telecom, logistics, retail, entertainment, and HR technology.     | Experience with both enterprise constraints and iterative product development.                            |
-| **1,788 authored pull requests merged** | 1,960 PRs created in the September 2025–September 2026 cohort; 91.2% merged at the snapshot.                 | A substantial, visible record of changes reaching integration across accessible repositories.             |
+| **1,791 authored pull requests merged** | 1,961 PRs created in the September 2025–September 2026 cohort; 91.3% merged at the snapshot.                 | A substantial, visible record of changes reaching integration across accessible repositories.             |
 
 <sub>Career and technology-tenure figures are based on my professional experience record dated December 22, 2025. Record-history scale describes stored histories, not throughput. Public project narratives: <a href="https://promari.jp/performance#pmw-development-section">PROMARI engineering work</a>.</sub>
 
 ## Engineering delivery, in numbers
 
-**1,960 pull requests authored. 1,788 merged. 622 authored issues closed.**
+**1,961 pull requests authored. 1,791 merged. 625 authored issues closed.**
 
 The following charts show the outcomes of PRs and issues I created between **September 30, 2025 and September 29, 2026**, with their status measured at the snapshot. They include accessible private repositories, summarized as aggregate counts.
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-339395a91eacbf83bccb.svg" alt="1,960 authored PRs: 1,788 merged, 167 closed without merge, 5 open. Merged share: 91.2%. Of 831 authored issues, 622 are closed and 209 remain open. Closed share: 74.8%. Status at the September 29, 2026 snapshot." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-b613df1bac5203a484b7.svg" alt="1,961 authored PRs: 1,791 merged, 167 closed without merge, 3 open. Merged share: 91.3%. Of 832 authored issues, 625 are closed and 207 remain open. Closed share: 75.1%. Status at the September 29, 2026 snapshot." width="100%">
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-trend-a1e0a82ff7d93053bc91.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/delivery-trend-50197f0adaf89079bf4b.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
 
-<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/delivery-b15f84bb5092a1de023a.json">Counts and query definitions</a>.</sub>
+<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/delivery-194e2b646c74fb2b0e30.json">Counts and query definitions</a>.</sub>
 
 ## Selected engineering work
 
@@ -139,7 +139,7 @@ I also offer **evaluation and trust-boundary design**: representative test cases
 
 ## Technical depth
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/experience-0b031f200699ff9a6bec.svg" alt="Reported experience as of September 2026: Java 16 years, Linux 12, MySQL 9, AWS 8, Amazon RDS 5, Go 4, Ruby on Rails 4, TypeScript 2. Experience overlaps across technologies." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/experience-baede224a35dd2d9f6a7.svg" alt="Reported experience as of September 2026: Java 16 years, Linux 12, MySQL 9, AWS 8, Amazon RDS 5, Go 4, Ruby on Rails 4, TypeScript 2, Applied AI 2. Experience overlaps across technologies." width="100%">
 
 | Layer                              | Technologies I have used                                                                                                                                    |
 | :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -178,9 +178,9 @@ This approach draws on **[DORA's five delivery metrics](https://dora.dev/guides/
 
 ## Building, consistently
 
-<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/activity-16a77606a26f71730ce1.svg" alt="GitHub activity snapshot for September 30, 2025 to September 29, 2026: 13,573 contributions, 307 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
+<a href="https://github.com/tamito0201?tab=overview"><img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/generated/activity-5153ef0a82c679d4aee6.svg" alt="GitHub activity snapshot for September 30, 2025 to September 29, 2026: 13,575 contributions, 307 active days, and a longest streak of 40 days. Monthly chart and contribution calendar." width="100%"></a>
 
-<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/activity-9910538c1ea8fb977823.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
+<sub>Source: GitHub GraphQL API, retrieved September 29, 2026. Includes public and private contribution counts; private project details are not included. Activity illustrates participation and consistency. Delivered work and technical responsibility are described in the case studies above. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/generated/activity-d51fb9cde8660a403e67.json">Chart data</a> · <a href="https://github.com/tamito0201?tab=overview">Current GitHub activity</a>.</sub>
 
 ## Technical leadership that compounds
 
