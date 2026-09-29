@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://promari.jp/performance"><strong>Engineering portfolio</strong></a> ·
   <a href="#selected-engineering-work"><strong>Selected work</strong></a> ·
+  <a href="#engineering-delivery-in-numbers"><strong>Delivery metrics</strong></a> ·
   <a href="#applied-ai-from-model-calls-to-working-systems"><strong>Applied AI</strong></a> ·
   <a href="#engineering-scorecard"><strong>Engineering scorecard</strong></a> ·
   <a href="https://promari.jp/school?contact_source=github-profile&amp;contact_topic=development#pms-contact-form"><strong>Work with me ↗</strong></a>
@@ -18,7 +19,7 @@ My work connects **domain modeling, API design, data-intensive backends, cloud i
 
 ## Engineering impact, at a glance
 
-<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/impact.svg" alt="20+ years building software since 2004; hundreds of thousands of record histories; a SaaS product launched from zero in July 2024; 13,623 GitHub contributions in the 12-month snapshot ending September 29, 2026." width="100%">
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/impact.svg" alt="20+ years building software; hundreds of thousands of record histories; a SaaS launch from zero; 13,623 contributions; 1,804 authored PRs merged in the September 2025–September 2026 creation cohort; 16 years of Java experience reported in December 2025." width="100%">
 
 | Evidence | What I delivered | Engineering significance |
 | :--- | :--- | :--- |
@@ -27,8 +28,21 @@ My work connects **domain modeling, API design, data-intensive backends, cloud i
 | **AWS + Google Cloud** | Led the technical work to move a disaster-response core system to a multi-cloud architecture. | Containerized applications, reproducible infrastructure, and automated delivery across ECS and Cloud Run. |
 | **16 years of Java · 7 years of AWS** | Combined deep backend experience with hands-on cloud delivery. | A foundation for modernizing established systems and making pragmatic architecture decisions. |
 | **20+ years of engineering experience** | Delivered across financial services, telecom, logistics, retail, entertainment, and HR technology. | Experience with both enterprise constraints and iterative product development. |
+| **1,804 authored pull requests merged** | 1,976 PRs created in the September 2025–September 2026 cohort; 91.3% merged at the snapshot. | A substantial, visible record of changes reaching integration across accessible repositories. |
 
 <sub>Career and technology-tenure figures are based on my professional experience record dated December 22, 2025. Record-history scale describes stored histories, not throughput. Public project narratives: <a href="https://promari.jp/performance#pmw-development-section">PROMARI engineering work</a>.</sub>
+
+## Engineering delivery, in numbers
+
+**1,976 pull requests authored. 1,804 merged. 618 authored issues closed.**
+
+The following charts show the outcomes of PRs and issues I created between **September 29, 2025 and September 29, 2026**, with their status measured at the snapshot. They include accessible private repositories, summarized as aggregate counts.
+
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/delivery.svg" alt="1,976 authored PRs: 1,804 merged, 168 closed without merge, 4 open. Merged share: 91.3%. Of 826 authored issues, 618 are closed and 208 remain open. Closed share: 74.8%. Status at the September 29, 2026 snapshot." width="100%">
+
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/delivery-trend.svg" alt="Monthly PR creation cohorts, showing merged and other statuses at the snapshot. The largest creation cohort is October 2025: 550 authored PRs, of which 500 are merged." width="100%">
+
+<sub>Grouped by PR creation date; integration may occur in a later month. Percentages describe item status within this cohort. Source: GitHub search API, September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/delivery.json">Counts and query definitions</a>.</sub>
 
 ## Selected engineering work
 
@@ -170,11 +184,17 @@ Its **[SNS Share component](https://github.com/tamito0201/promari-toolkit/tree/m
 
 **[Source and architecture →](https://github.com/tamito0201/promari-toolkit/tree/main/plugins/promari-sns-share/docs)** · **[Releases →](https://github.com/tamito0201/promari-toolkit/releases)**
 
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/releases.svg" alt="PROMARI SNS Share: 10 public stable releases across 4 major version lines, with 8 sharing destinations or actions. Release history from September 17 through September 25, 2026." width="100%">
+
+<sub>Release counts come from the public GitHub Releases API; major version lines are derived from the published tags. Snapshot: September 29, 2026. <a href="https://github.com/tamito0201/tamito0201/blob/main/data/releases.json">Release data</a>.</sub>
+
 ### [PROMARI engineering portfolio](https://promari.jp/performance)
 
 Project narratives covering backend platforms, cloud modernization, real-time data, integrations, mobile applications, and applied AI. **[Development](https://promari.jp/performance#pmw-development-section)** · **[AI engineering](https://promari.jp/performance#pmw-ai)** · **[Technical writing](https://promari.jp/blog/)**
 
 ## Technical leadership that compounds
+
+<img src="https://raw.githubusercontent.com/tamito0201/tamito0201/main/assets/career.svg" alt="Engineering milestones: enterprise Java in 2004; financial-system integration in 2007–2010; company founded in 2015; mobile architecture in 2019–2020; AWS batch platforms in 2021; multi-cloud SRE leadership in 2022; a July 2024 SaaS launch; current backend, cloud, and applied AI work." width="100%">
 
 I combine implementation with **architecture decisions, cross-team coordination, code review, and knowledge transfer**. My experience includes multinational product teams, offshore engineering collaboration, SRE technical leadership, and the operational discipline of large enterprise programs.
 
