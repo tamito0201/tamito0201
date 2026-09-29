@@ -1,0 +1,144 @@
+{
+  "from": "2025-09-30",
+  "months": [
+    {
+      "from": "2025-09-30",
+      "merged_prs": 25,
+      "month": "2025-09",
+      "prs": 26,
+      "to": "2025-09-30"
+    },
+    {
+      "from": "2025-10-01",
+      "merged_prs": 500,
+      "month": "2025-10",
+      "prs": 550,
+      "to": "2025-10-31"
+    },
+    {
+      "from": "2025-11-01",
+      "merged_prs": 328,
+      "month": "2025-11",
+      "prs": 372,
+      "to": "2025-11-30"
+    },
+    {
+      "from": "2025-12-01",
+      "merged_prs": 105,
+      "month": "2025-12",
+      "prs": 123,
+      "to": "2025-12-31"
+    },
+    {
+      "from": "2026-01-01",
+      "merged_prs": 32,
+      "month": "2026-01",
+      "prs": 38,
+      "to": "2026-01-31"
+    },
+    {
+      "from": "2026-02-01",
+      "merged_prs": 29,
+      "month": "2026-02",
+      "prs": 30,
+      "to": "2026-02-28"
+    },
+    {
+      "from": "2026-03-01",
+      "merged_prs": 162,
+      "month": "2026-03",
+      "prs": 175,
+      "to": "2026-03-31"
+    },
+    {
+      "from": "2026-04-01",
+      "merged_prs": 135,
+      "month": "2026-04",
+      "prs": 143,
+      "to": "2026-04-30"
+    },
+    {
+      "from": "2026-05-01",
+      "merged_prs": 23,
+      "month": "2026-05",
+      "prs": 27,
+      "to": "2026-05-31"
+    },
+    {
+      "from": "2026-06-01",
+      "merged_prs": 114,
+      "month": "2026-06",
+      "prs": 122,
+      "to": "2026-06-30"
+    },
+    {
+      "from": "2026-07-01",
+      "merged_prs": 44,
+      "month": "2026-07",
+      "prs": 52,
+      "to": "2026-07-31"
+    },
+    {
+      "from": "2026-08-01",
+      "merged_prs": 51,
+      "month": "2026-08",
+      "prs": 54,
+      "to": "2026-08-31"
+    },
+    {
+      "from": "2026-09-01",
+      "merged_prs": 238,
+      "month": "2026-09",
+      "prs": 244,
+      "to": "2026-09-29"
+    }
+  ],
+  "queries": {
+    "closed_issues": "author:tamito0201 created:2025-09-30..2026-09-29 is:issue is:closed",
+    "closed_unmerged_prs": "author:tamito0201 created:2025-09-30..2026-09-29 is:pr is:closed is:unmerged",
+    "issues": "author:tamito0201 created:2025-09-30..2026-09-29 is:issue",
+    "m0_merged_prs": "author:tamito0201 created:2025-09-30..2025-09-30 is:pr is:merged",
+    "m0_prs": "author:tamito0201 created:2025-09-30..2025-09-30 is:pr",
+    "m10_merged_prs": "author:tamito0201 created:2026-07-01..2026-07-31 is:pr is:merged",
+    "m10_prs": "author:tamito0201 created:2026-07-01..2026-07-31 is:pr",
+    "m11_merged_prs": "author:tamito0201 created:2026-08-01..2026-08-31 is:pr is:merged",
+    "m11_prs": "author:tamito0201 created:2026-08-01..2026-08-31 is:pr",
+    "m12_merged_prs": "author:tamito0201 created:2026-09-01..2026-09-29 is:pr is:merged",
+    "m12_prs": "author:tamito0201 created:2026-09-01..2026-09-29 is:pr",
+    "m1_merged_prs": "author:tamito0201 created:2025-10-01..2025-10-31 is:pr is:merged",
+    "m1_prs": "author:tamito0201 created:2025-10-01..2025-10-31 is:pr",
+    "m2_merged_prs": "author:tamito0201 created:2025-11-01..2025-11-30 is:pr is:merged",
+    "m2_prs": "author:tamito0201 created:2025-11-01..2025-11-30 is:pr",
+    "m3_merged_prs": "author:tamito0201 created:2025-12-01..2025-12-31 is:pr is:merged",
+    "m3_prs": "author:tamito0201 created:2025-12-01..2025-12-31 is:pr",
+    "m4_merged_prs": "author:tamito0201 created:2026-01-01..2026-01-31 is:pr is:merged",
+    "m4_prs": "author:tamito0201 created:2026-01-01..2026-01-31 is:pr",
+    "m5_merged_prs": "author:tamito0201 created:2026-02-01..2026-02-28 is:pr is:merged",
+    "m5_prs": "author:tamito0201 created:2026-02-01..2026-02-28 is:pr",
+    "m6_merged_prs": "author:tamito0201 created:2026-03-01..2026-03-31 is:pr is:merged",
+    "m6_prs": "author:tamito0201 created:2026-03-01..2026-03-31 is:pr",
+    "m7_merged_prs": "author:tamito0201 created:2026-04-01..2026-04-30 is:pr is:merged",
+    "m7_prs": "author:tamito0201 created:2026-04-01..2026-04-30 is:pr",
+    "m8_merged_prs": "author:tamito0201 created:2026-05-01..2026-05-31 is:pr is:merged",
+    "m8_prs": "author:tamito0201 created:2026-05-01..2026-05-31 is:pr",
+    "m9_merged_prs": "author:tamito0201 created:2026-06-01..2026-06-30 is:pr is:merged",
+    "m9_prs": "author:tamito0201 created:2026-06-01..2026-06-30 is:pr",
+    "merged_prs": "author:tamito0201 created:2025-09-30..2026-09-29 is:pr is:merged",
+    "open_issues": "author:tamito0201 created:2025-09-30..2026-09-29 is:issue is:open",
+    "open_prs": "author:tamito0201 created:2025-09-30..2026-09-29 is:pr is:open",
+    "prs": "author:tamito0201 created:2025-09-30..2026-09-29 is:pr"
+  },
+  "retrieved_at": "2026-09-29T05:16:21Z",
+  "scope": "Created-date cohort; status at retrieval. Includes accessible private repositories. Aggregate counts only.",
+  "source": "GitHub GraphQL search; REST total cross-check",
+  "to": "2026-09-29",
+  "totals": {
+    "closed_issues": 620,
+    "closed_unmerged_prs": 167,
+    "issues": 828,
+    "merged_prs": 1786,
+    "open_issues": 208,
+    "open_prs": 3,
+    "prs": 1956
+  }
+}

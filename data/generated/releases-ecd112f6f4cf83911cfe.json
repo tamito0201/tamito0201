@@ -1,0 +1,76 @@
+{
+  "releases": [
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v1.0.0",
+      "prerelease": false,
+      "published_at": "2026-09-17T02:51:32Z",
+      "tag_name": "promari-sns-share-v1.0.0"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v1.1.0",
+      "prerelease": false,
+      "published_at": "2026-09-17T03:48:45Z",
+      "tag_name": "promari-sns-share-v1.1.0"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v2.0.0",
+      "prerelease": false,
+      "published_at": "2026-09-22T18:40:16Z",
+      "tag_name": "promari-sns-share-v2.0.0"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v2.0.1",
+      "prerelease": false,
+      "published_at": "2026-09-23T14:40:38Z",
+      "tag_name": "promari-sns-share-v2.0.1"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v2.0.2",
+      "prerelease": false,
+      "published_at": "2026-09-23T15:21:24Z",
+      "tag_name": "promari-sns-share-v2.0.2"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v2.0.3",
+      "prerelease": false,
+      "published_at": "2026-09-23T16:05:24Z",
+      "tag_name": "promari-sns-share-v2.0.3"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v3.0.0",
+      "prerelease": false,
+      "published_at": "2026-09-23T16:20:02Z",
+      "tag_name": "promari-sns-share-v3.0.0"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v3.1.0",
+      "prerelease": false,
+      "published_at": "2026-09-23T17:01:32Z",
+      "tag_name": "promari-sns-share-v3.1.0"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v3.2.0",
+      "prerelease": false,
+      "published_at": "2026-09-23T17:14:29Z",
+      "tag_name": "promari-sns-share-v3.2.0"
+    },
+    {
+      "draft": false,
+      "html_url": "https://github.com/tamito0201/promari-toolkit/releases/tag/promari-sns-share-v4.0.0",
+      "prerelease": false,
+      "published_at": "2026-09-25T02:26:54Z",
+      "tag_name": "promari-sns-share-v4.0.0"
+    }
+  ],
+  "retrieved_at": "2026-09-29T05:16:21Z",
+  "source": "GitHub REST / repos/tamito0201/promari-toolkit/releases"
+}

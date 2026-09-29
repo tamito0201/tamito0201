@@ -1,0 +1,22 @@
+{
+  "data_paths": {
+    "activity": "data/generated/activity-e717e034d0666aed414d.json",
+    "delivery": "data/generated/delivery-58f1672965a2948776b4.json",
+    "releases": "data/generated/releases-ecd112f6f4cf83911cfe.json"
+  },
+  "files": {
+    "README.md": "39518327a62bf4365d450f6e676e986e868fe72a",
+    "assets/generated/activity-3062deceef2b51f5ba3b.svg": "cb34cd8c072bc63c1da628a9881395d7c1a6eb30",
+    "assets/generated/career-6f39c70b3c56a7fd6451.svg": "d1705d57fd14e6b8620ad0a9e5d8ab2bf00c739e",
+    "assets/generated/delivery-554ccc7febfdd591d617.svg": "ab6d32eb9e915f8277091ddd2321632c7b092cbf",
+    "assets/generated/delivery-trend-b476a7a3d8881b36b7a9.svg": "14bc087e33cbedfc4c064afcfbf9a9b00a56c78b",
+    "assets/generated/experience-4055eb0ec23a9bc828c9.svg": "8919a162aef1ed052bec18fcd47f9d2da3636efb",
+    "assets/generated/hero-5d1de83e71c469a087e0.svg": "624dda0aab223af5e9e8927de5429270a448345d",
+    "assets/generated/impact-474b973d574f6d45643d.svg": "6adca92963c49e0728bb15b817d31aea22f41df6",
+    "assets/generated/releases-0020cb3bd3087d9ecd2d.svg": "3c402ccfd27ad7527fc8597aa75dedd19cda9e8b",
+    "data/generated/activity-e717e034d0666aed414d.json": "7f17e74f47aac5342f604a37d0ef13da30fe0f9d",
+    "data/generated/delivery-58f1672965a2948776b4.json": "1516fd8a6d6f30110be5d8a8ac16e5359d2363e7",
+    "data/generated/releases-ecd112f6f4cf83911cfe.json": "2f9d7d6ce9fc6100c5ce945a139c47903b073202"
+  },
+  "generator": "promari-profile-sync/v1"
+}
